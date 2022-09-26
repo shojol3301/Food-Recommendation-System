@@ -33,14 +33,21 @@ VS Code or any IDE
 ```
 ##### Setup to run
 
-download files in your computer
+download following files in your computer
+```
+restaurant_data.pkl
 
-Open terminal/cmd promt or any relatable IDE
+restaurant_location.pkl
+
+app.py
+```
+
+
+Open any relatable IDE
 
 Then in VNEV enter the following command
-Example
 
 ```
-venv-> python -m streamlit app.py
+venv-> python -m streamlit run app.py
 ```
 
